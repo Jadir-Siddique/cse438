@@ -1,2 +1,4 @@
-# cse438
-summer 2023
+BRAC University
+CSE438: Applied Data Science for Practitioners 
+Summer 2023
+
