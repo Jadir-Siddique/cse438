@@ -20,10 +20,10 @@ Paper submission ID: (received) from conference/workshop
 
 
 Conference Name:
-
+2023 IEEE 5th International Conference on Artificial Intelligence and Computer Applications (ICAICA 2023)
 
 Conference URL:
-
+http://www.icaica.org/
 
 Group Number:
 8
