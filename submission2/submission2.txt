@@ -1,8 +1,8 @@
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/l9_agmn8bWs
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1NHhsCpyxBkp4bIzqCrodoxfMg66kKT3u28y8QYyGVMY/edit?usp=sharing
 
 Paper title:
 A review on image-based approaches for breast cancer detection, segmentation, and classification 
